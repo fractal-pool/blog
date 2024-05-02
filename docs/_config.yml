@@ -2,7 +2,7 @@ title: Fractal Pool Blog
 email: rafi@rafikhan.io
 description: >- # this means to ignore newlines until "baseurl:"
   A place for us to share updates on work being done in this community and its projects.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 theme: minima
